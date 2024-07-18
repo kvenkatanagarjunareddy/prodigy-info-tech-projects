@@ -24,4 +24,42 @@ Enhance understanding of how JavaScript can be used to create dynamic web applic
 Improve proficiency in utilizing HTML, CSS, and JavaScript for web development tasks
 PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
+TASK3:
+Tic Tac Toe Game
+This is a simple Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other.
+
+Features
+Two-player mode
+Interactive user interface
+Game status display
+Reset functionality
+Getting Started
+Prerequisites
+To run the game, you need a web browser such as Chrome, Firefox, or Edge.
+
+Installation
+Clone the repository:
+sh
+Copy code
+git clone https://github.com/yourusername/tic-tac-toe.git
+Navigate to the project directory:
+sh
+Copy code
+cd tic-tac-toe
+Open the index.html file in your web browser to start the game.
+How to Play
+Open the game in your web browser.
+Player 1 (X) and Player 2 (O) take turns clicking on the cells in the 3x3 grid.
+The first player to align three of their marks horizontally, vertically, or diagonally wins the game.
+If all nine cells are filled without a winner, the game ends in a draw.
+Click the "Reset" button to start a new game.
+Screenshots
+
+Technologies Used
+HTML
+CSS
+JavaScript
+License
+This project is licensed under the MIT License - see the LICENSE file for details
+
 
